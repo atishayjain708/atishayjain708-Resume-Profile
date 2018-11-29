@@ -4,7 +4,8 @@ repository: atishayjain708/atishayjain708.github.io
 
 # Personal info
 name: Atishay Jain
-title: Senior Network System Administrator
+title: Computer Science Engineering 
+        Junior-Year student
 email: atishayjain708@gmail.com
 website: atishayjain708.github.io
 
@@ -22,7 +23,7 @@ linkedin_username: atishay5
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hi, I am Atishay Jain - a Computer Science engineering Junior year student. I have experience working with Python and using and deploying end to end solutions, mostly using web as the platform. Currently I'm working in and increasing my knowledge of the machine learning and data-science domain.
   I have experience working with Django, Docker, using Jekyll templates and Tensorflow.

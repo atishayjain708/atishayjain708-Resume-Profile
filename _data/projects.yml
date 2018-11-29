@@ -1,7 +1,26 @@
-- name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+- name: Time-series similarity analysis and it’s applications in data-mining and mutual funds
+  link: 
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    Indian Institute of Information Technology, Allahabad
+      May 2018 – July 2018
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    Project Guide: Dr. Vrijendra Singh, HOD IT, IIIT-Allahabad
+    Developed an efficient, non-euclidean distance based algorithm for clustering time-series. Used that algorithm to identify discords in large datasets. This algorithm was also used to analyze trends in stock prices and cluster similar stock options leading to better, more diverse mutual fund portfolios.
+
+- name: Unipool- A cabpool solution
+  quote: >
+    An Android application to solve the problem of cab-pooling at SNU 
+  description: | # this will include new lines to allow paragraphs
+    A team project where we used Firebase and Google Location Framework to create a chat-based cab-pool app to manage Cab pooling to and from SNU. Implemented user login and made use of database management techniques.
+
+- name: Face Recognition by projection into Eigenspaces
+  description: | # this will include new lines to allow paragraphs
+    An implementation using MATLAB. Understood and implemented an algorithm for face-recognition using eigenfaces and face-spaces as proposed by M. Turk and A. Pentland in the paper ’Eigenfaces for Recognition’.
+
+- name: TimeSpare
+  link: https://atishayjain708.github.io/TimeSpare/
+  description: | # this will include new lines to allow paragraphs
+    A website that provides creative ways to make good use of free time. Worked on front-end using HTML, CSS and Javascript for a website that provides users with tips, tricks and tutorials of varied length.
+
+
+
