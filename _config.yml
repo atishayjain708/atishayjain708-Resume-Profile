@@ -1,32 +1,32 @@
 # Site
-repository: sproogen/resume-theme
+repository: atishayjain708/atishayjain708.github.io
 # favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
+name: Atishay Jain
 title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+email: atishayjain708@gmail.com
+website: atishayjain708.github.io
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: _atishayJain
+github_username:  atishayjain708
 # dribbble_username: jekyll
-# facebook_username: jekyll
+facebook_username: Atishay5
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+instagram_username: _atishay.jain
+linkedin_username: atishay5
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, I am Atishay Jain - a Computer Science engineering Junior year student. I have experience working with Python and using and deploying end to end solutions, mostly using web as the platform. Currently I'm working in and increasing my knowledge of the machine learning and data-science domain.
+  I have experience working with Django, Docker, using Jekyll templates and Tensorflow.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 # Projects Section
 # projects_title: Projects
