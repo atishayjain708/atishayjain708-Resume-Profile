@@ -1,1 +1,3 @@
-My page
+Looks like this:
+
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
